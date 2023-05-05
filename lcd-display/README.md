@@ -1,6 +1,6 @@
 ### LCD Display
 
-This provider uses a "display" contract that can be found [here](https://github.com/jordan-rash/wasmcloud-interfaces/lcd-display).  
+This provider uses a "display" contract that can be found [here](https://github.com/jordan-rash/wasmcloud-interfaces/tree/main/lcd-display).    
 
 This project takes advantage of a pre-existing LCM1602 driver library that can be found [here](https://github.com/wjessop/lcm1602_lcd), so you will need an I2C compatible display.
 
@@ -10,7 +10,7 @@ None
 
 ### API
 
-#### Actor to Providerj
+#### Actor to Provider
 
 ##### `Display.DisplayLine`
 
