@@ -30,5 +30,6 @@ You will need to send two payloads
 This RPC call will clear the entire display and return `true` if it was successful or an `error` if it wasn't.
 
  
+![image](https://user-images.githubusercontent.com/15827604/236480684-2b660788-ff80-4905-b8b9-30301c64c9a8.png)
 
 
