@@ -24,7 +24,7 @@ func main() {
 	var err error
 
 	p, err = provider.New(
-		"wasmcloud:display",
+		"jordan-rash:display",
 		provider.WithNewLinkFunc(handleNewLink),
 		provider.WithDelLinkFunc(handleDelLink),
 		provider.WithHealthCheckMsg(healthCheckMsg),
